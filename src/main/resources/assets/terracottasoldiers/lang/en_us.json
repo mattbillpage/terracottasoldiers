@@ -1,0 +1,13 @@
+{
+  "itemGroup.terracottasoldiers": "Example Mod Tab",
+  "block.terracottasoldiers.example_block": "Example Block",
+  "item.terracottasoldiers.example_item": "Example Item",
+
+  "terracottasoldiers.configuration.title": "TerracottaSoldiers Configs",
+  "terracottasoldiers.configuration.section.terracottasoldiers.common.toml": "TerracottaSoldiers Configs",
+  "terracottasoldiers.configuration.section.terracottasoldiers.common.toml.title": "TerracottaSoldiers Configs",
+  "terracottasoldiers.configuration.items": "Item List",
+  "terracottasoldiers.configuration.logDirtBlock": "Log Dirt Block",
+  "terracottasoldiers.configuration.magicNumberIntroduction": "Magic Number Text",
+  "terracottasoldiers.configuration.magicNumber": "Magic Number"
+}
